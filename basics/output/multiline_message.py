@@ -1,0 +1,7 @@
+print("System Failure Imminent!")
+print("System reboot has been initiated...")
+print("\n...rebooting sensory system")
+print("...rebooting output motors")
+print("...rebooting hover engine")
+print("\n System online.")
+print("\n \t \"I am Beep!\" \n")
