@@ -1,0 +1,7 @@
+lives = int(input("Please enter number of lives: "))
+energyLevel = int(input("Please enter energy level: "))
+shieldLevel = int(input("Please enter shield level: "))
+print("Health has been set")
+print("Lives:", "\u2665 " * lives)
+print("Energy:", "\u2666 " * energyLevel)
+print("Shield:", "\u2720 " * shieldLevel)
