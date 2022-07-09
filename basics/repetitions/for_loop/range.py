@@ -1,0 +1,10 @@
+print("What level of brightness is required?")
+n = int(input())
+print("\nAdjusting brightness...\n")
+for i in range(2, n + 1, 2):
+  print("Beep's brightness level: ", end="")
+  print("*" * i)
+  print("Bop's brightness level: ", end="")
+  print("*" * i)
+  print("\n")
+print("Adjustments complete!")
